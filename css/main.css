@@ -13,6 +13,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+    color:green;
 }
 a {
     text-decoration: none;
@@ -36,6 +37,9 @@ p {
     line-height: 1.4em;
     font-family:'consolas', 'Arial', 'Sans-Serif';
     color: white;
+}
+header {
+    color:green;
 }
 footer {
     border-top: 1px solid #d5d5d5;
