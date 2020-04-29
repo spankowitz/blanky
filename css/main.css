@@ -24,18 +24,18 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'consolas', 'Arial', 'Sans-Serif';
+    font-family:'Consolas', 'Arial', 'Sans-Serif';
     color:white;
 }
 h2 {
     font-size: 2em;
-    font-family:'consolas', 'Arial', 'Sans-Serif';
+    font-family:'Consolas', 'Arial', 'Sans-Serif';
     color:white;
 }
 p {
     font-size: 1em;
     line-height: 1.4em;
-    font-family:'consolas', 'Arial', 'Sans-Serif';
+    font-family:'Consolas', 'Arial', 'Sans-Serif';
     color: white;
 }
 header {
